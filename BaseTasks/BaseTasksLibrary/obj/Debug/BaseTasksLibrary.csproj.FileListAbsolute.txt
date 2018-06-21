@@ -1,0 +1,7 @@
+C:\Users\User\master\BaseTasks\BaseTasksLibrary\bin\Debug\BaseTasksLibrary.exe.config
+C:\Users\User\master\BaseTasks\BaseTasksLibrary\bin\Debug\BaseTasksLibrary.exe
+C:\Users\User\master\BaseTasks\BaseTasksLibrary\bin\Debug\BaseTasksLibrary.pdb
+C:\Users\User\master\BaseTasks\BaseTasksLibrary\obj\Debug\BaseTasksLibrary.csprojAssemblyReference.cache
+C:\Users\User\master\BaseTasks\BaseTasksLibrary\obj\Debug\BaseTasksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\master\BaseTasks\BaseTasksLibrary\obj\Debug\BaseTasksLibrary.exe
+C:\Users\User\master\BaseTasks\BaseTasksLibrary\obj\Debug\BaseTasksLibrary.pdb
